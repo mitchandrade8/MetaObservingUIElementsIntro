@@ -19,4 +19,14 @@ import Foundation
 
 // MARK: - Passing information to another view
 
+// @Binding will bind to the result
+
+// What happens if you want to interface to update with class
+    // @ObservableObject
+
+    // @ObservedObject
+
+
+// MARK: - Property Wrapper Pairs : @State and @Binding
+
 
